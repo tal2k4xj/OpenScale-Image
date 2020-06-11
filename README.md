@@ -1,6 +1,6 @@
 # Prerequisite
 
-Register to IBM Cloud: https://ibm.biz/BdqMxJ 
+Register to IBM Cloud: https://ibm.biz/Bdqmhs
 
 # Step 1 : Create Jupyter Notebook on Watson 
 
