@@ -50,7 +50,7 @@ And select "Notebook".
 
 ![addnotebook](./images/addnotebook.png)
 
-To make it easy we will provide you sample notebook that containe some code already :), just select deploy "From URL" give it a name and use the link to get the Notebook: https://raw.githubusercontent.com/tal2k4xj/Watson-Q-Learning/master/ReinforcementLearningTest.ipynb
+To make it easy we will provide you sample notebook that containe some code already :), just select deploy "From URL" give it a name and use the link to get the Notebook: https://raw.githubusercontent.com/tal2k4xj/OpenScale-Image/master/TestImageWOS.ipynb
 After you all set click on "Create"
 
 ![fillnotebook](./images/fillnotebook.png)
