@@ -2,7 +2,7 @@
 
 Register to IBM Cloud: https://ibm.biz/Bdqmhs
 
-# Step 1 : Create Jupyter Notebook on Watson 
+# Create Jupyter Notebook on Watson Studio
 
 To be able to create online Jupyter Notebook we will need to access Watson service that will provide us the environment, For this we will use Watson Studio service.
 Go to: https://cloud.ibm.com/catalog/services/watson-studio
@@ -55,11 +55,6 @@ After you all set click on "Create"
 
 ![fillnotebook](./images/fillnotebook.png)
 
-It will take few seconds to upload the Notebook, once its done you can now follow the guide, if you want to run the cells 1 by 1 please clear the output data for your convenient.
+It will take few seconds to upload the Notebook, once its done you can now follow the guide in the notebook.
 
 ![clearcells](./images/clearcells.png)
-
-Now you can run the cells and see the results !
-
-#### References 
-https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/
