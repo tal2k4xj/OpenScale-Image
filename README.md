@@ -2,6 +2,10 @@
 
 Register to IBM Cloud: https://ibm.biz/Bdqmhs
 
+# First Tutorial
+
+https://cloud.ibm.com/docs/ai-openscale?topic=ai-openscale-gs-obj
+
 # Create Jupyter Notebook on Watson Studio
 
 To be able to create online Jupyter Notebook we will need to access Watson service that will provide us the environment, For this we will use Watson Studio service.
